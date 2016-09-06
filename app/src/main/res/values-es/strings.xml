@@ -4,4 +4,5 @@
     <string name="button_text">TIEMBLA MIS MADERAS</string>
     <string name="toast_text">Yarr Mundo!</string>
     <string name="welcome_text"> Bienvenido a CS 273 - Desarrollo de Aplicaciones Móviles</string>
+    <string name="occ_pirate_logo">pirata</string>
 </resources>

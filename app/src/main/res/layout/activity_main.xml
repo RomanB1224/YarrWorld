@@ -28,7 +28,8 @@
         android:id="@+id/imageView"
         android:layout_gravity="center_horizontal"
         android:layout_weight="2"
-        android:src="@drawable/occpirate" />
+        android:src="@drawable/occpirate"
+        android:contentDescription="@string/occ_pirate_logo" />
 
     <Button
         android:layout_width="wrap_content"
