@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+/**
+ * App that introduces the user to cs 273 and displays text when button is pushed.
+ */
 public class MainActivity extends AppCompatActivity {
 
     //Define the button as an instance variable
@@ -29,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
         speakButton.setOnClickListener(
                 new View.OnClickListener()
                 {
+                    /**
+                     * creates the toast text of Yarr World
+                     * @param view
+                     */
                     @Override
                     public void onClick(View view)
                     {
